@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ToDo.md",
+                "file": "Base/GIT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ToDo"
+              "title": "GIT"
             }
           },
           {
@@ -193,10 +193,15 @@
   },
   "active": "c57a796a6cd3dbd6",
   "lastOpenFiles": [
-    "Base/SQL.md",
-    "Base/Linux.md",
+    "Base/_Спринт по вопросам основы.md",
+    "Base/Техники тест дизайна.md",
+    "Base/Теория по основам тестирования.md",
+    "Base/Методологии.md",
+    "Base/Артефакты тестирования.md",
     "Base/GIT.md",
     "ToDo.md",
+    "Base/SQL.md",
+    "Base/Linux.md",
     "attachments/Pasted image 20241107132133.png",
     "attachments/Pasted image 20241107132036.png",
     "attachments/Pasted image 20241107131840.png",
@@ -205,9 +210,7 @@
     "attachments/Pasted image 20241107131419.png",
     "attachments/Pasted image 20241107131315.png",
     "attachments/Pasted image 20241107131148.png",
-    "Base/Техники тест дизайна.md",
     "attachments/Pasted image 20241107120114.png",
-    "Base/Теория по основам тестирования.md",
     "Разгребать.md",
     "attachments/Pasted image 20241106160517.png",
     "Инструменты и справочники.md",
@@ -217,7 +220,6 @@
     "Base/WEB.md",
     "Base/DEVOPS.md",
     "Base/Docker.md",
-    "Base/Методологии.md",
     "[[Техники.md",
     "Base/[Техники.md",
     "Base/Техники/тест/дизайна.md",
@@ -227,13 +229,11 @@
     "Base/Техники.md",
     "Base/Техники-тест-дизайна.md",
     "Техники-тест-дизайна.md",
-    "Base/Артефакты тестирования.md",
     "Тестовое приложение _ЗАГС_/Задание по Jenkins.md",
     "Задание по Jenkins",
     "Se/Untitled",
     "Личное/Untitled",
     "Z",
-    "Base/_Спринт по вопросам основы.md",
     "БАЗА_знаний",
     "WEB",
     "[[Собес",
