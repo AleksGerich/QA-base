@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Инструменты и справочники.md",
+                "file": "Base/GIT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Инструменты и справочники"
+              "title": "GIT"
             }
           }
         ]
@@ -164,13 +164,13 @@
   },
   "active": "514bd98ae97d09b3",
   "lastOpenFiles": [
+    "Инструменты и справочники.md",
     "ToDo.md",
     "Base/GIT.md",
     "Base/DEVOPS.md",
     "Base/Техники тест дизайна.md",
     "Base/Docker.md",
     "Base/Linux.md",
-    "Инструменты и справочники.md",
     "attachments/Pasted image 20240911142313.png",
     "attachments/Pasted image 20240911142241.png",
     "attachments/Pasted image 20240911142138.png",
