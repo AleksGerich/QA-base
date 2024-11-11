@@ -294,7 +294,8 @@ DELETE
 
 ---
 #состояния_ответов #ответы
-# Основные состояния ответов
+# Коды состояния ответов HTTP
+
 **2xx (success):**
 - 200 OK
 - 201 Created (в основном на PUT или POST)
@@ -311,6 +312,8 @@ DELETE
 - 404 Not Found 
 **5xx (Server Error)**
 - 500 Server Error
+
+![[Pasted image 20241108174717.png]]
 
 ---
 #интерфейсы
