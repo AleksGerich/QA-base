@@ -35,6 +35,8 @@ tags:
 
 ![[Pasted image 20241201215153.png]]
 
+[Статья про CI/CD с примерами построения Pipeline](https://www.reg.ru/blog/rukovodstvo-po-ci-cd-v-gitlab-dlya-novichka/)
+
 ---
 #ci #непрерывная_интеграция
 # Подробнее про CI
